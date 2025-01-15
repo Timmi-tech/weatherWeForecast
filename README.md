@@ -1,4 +1,4 @@
-
+****
 WeatherWeForecast ☀️
 
 A simple weather forecasting application that uses the OpenWeatherMap API to provide real-time weather information for any city. This app displays the current temperature, humidity, wind speed, and weather conditions with relevant icons. It now also automatically detects your location and updates the background color dynamically based on the weather conditions.
@@ -10,11 +10,17 @@ Check out the live version here: WeatherWeForecast
 🚀 Features
 
 🌡️ Displays the current temperature in Celsius.
+
 💧 Shows humidity levels.
+
 🌬️ Provides wind speed details.
+
 ☁️ Displays weather conditions with appropriate icons.
+
 🌍 Auto-detects your location and shows the weather for your city.
+
 🎨 Dynamic background color changes based on the current weather conditions.
+
 🔎 Search for any city worldwide.
 
 📸 Screenshots
@@ -81,3 +87,4 @@ Inspiration from various online tutorials and resources.
 ⭐ Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and create a pull request.
+********
