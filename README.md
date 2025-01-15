@@ -4,7 +4,7 @@
 
 
 A simple weather forecasting application that uses the OpenWeatherMap API to provide real-time weather information for any city. This app displays the current temperature, humidity, wind speed, and weather conditions with relevant icons. It now also automatically detects your location and updates the background color dynamically based on the weather conditions.
->>>>>>> c7fa1960773f26e6fb3fba3cd5027ab098feb76a
+
 
 A simple weather forecasting application that uses the OpenWeatherMap API to provide real-time weather information for any city. This app displays the current temperature, humidity, wind speed, and weather conditions with relevant icons. It now also automatically detects your location and updates the background color dynamically based on the weather conditions.
 
