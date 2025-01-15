@@ -23,7 +23,8 @@ Check out the live version here: WeatherWeForecast
 Main Interface
 ![image](https://github.com/user-attachments/assets/dfada1b7-27b8-4373-9662-5a8855e5e976)
 ![image](https://github.com/user-attachments/assets/a130cb43-40f3-41cd-b30e-509a1574f307)
-![image](https://github.com/user-attachments/assets/100a5256-bd15-41c9-8dbb-da020cfc6f8c)
+![image](https://github.com/user-attachments/assets/e5357937-e23f-4581-8f75-8e03feef2f04)
+
 
 
 
